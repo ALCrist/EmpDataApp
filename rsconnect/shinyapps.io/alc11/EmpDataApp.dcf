@@ -1,0 +1,8 @@
+name: EmpDataApp
+account: alc11
+server: shinyapps.io
+bundleId: 225577
+url: https://alc11.shinyapps.io/EmpDataApp
+when: 1437790477.81659
+asMultiple: FALSE
+asStatic: FALSE
